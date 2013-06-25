@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "El-Billiard", "ElBilliard\El-Billiard.csproj", "{A40BE677-D982-4D63-85C1-624536E66193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elphysics", "Elphysics\Elphysics.csproj", "{65EF2066-8D2B-4C3C-8285-6441DC76AF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElControls", "ElControls\ElControls.csproj", "{E20F734C-00EE-457F-AC84-C7938067F6AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A40BE677-D982-4D63-85C1-624536E66193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40BE677-D982-4D63-85C1-624536E66193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40BE677-D982-4D63-85C1-624536E66193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40BE677-D982-4D63-85C1-624536E66193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EF2066-8D2B-4C3C-8285-6441DC76AF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EF2066-8D2B-4C3C-8285-6441DC76AF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EF2066-8D2B-4C3C-8285-6441DC76AF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EF2066-8D2B-4C3C-8285-6441DC76AF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20F734C-00EE-457F-AC84-C7938067F6AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20F734C-00EE-457F-AC84-C7938067F6AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20F734C-00EE-457F-AC84-C7938067F6AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20F734C-00EE-457F-AC84-C7938067F6AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
