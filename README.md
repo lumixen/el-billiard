@@ -5,4 +5,4 @@ El-Billiard
 
 ![Menu screen](/README.png "")
 
-Billiard game was developed as a studying project.
+Simple billiard game. It was developed as a training project.
