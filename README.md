@@ -5,4 +5,4 @@ El-Billiard
 
 ![Menu screen](/README.png "")
 
-Simple billiard game. It was developed as a training project.
+Simple billiard game in C#.
